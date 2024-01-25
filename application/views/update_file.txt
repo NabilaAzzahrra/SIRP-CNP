@@ -1,0 +1,19 @@
+if(!empty($_FILES['ktp_rusak']['name']))
+{
+$path = 'assets/berkas/ktp_rusak/';
+$upload = $this->_do_upload($path,'ktp_rusak',$_FILES['ktp_rusak']['name']);
+$read = $this->m->Get_Where($where, $table);
+if(file_exists('assets/berkas/ktp_rusak/'.$read[0]->ktp_rusak) && ($read[0]->ktp_rusak!= 'default.jpg'))
+unlink('assets/berkas/ktp_rusak/'.$read[0]->ktp_rusak);
+$data['ktp_rusak'] = $upload;
+}
+
+
+if (!empty($_FILES['bukti_kerjasama']['name'])) {
+$path = './assets/template/dist/file/';
+$upload = $this->_do_upload($path,'bukti_kerjasama',$_FILES['bukti_kerjasama']['name']);
+$read = $this->Models->Get_Where($where, $table);
+if(file_exists('./assets/berkas/dist/file/'.$read[0]->bukti_kerjasama) && ($read[0]->bukti_kerjasama!= 'default.jpg'))
+unlink('./assets/berkas/dist/file/'.$read[0]->bukti_kerjasama);
+$data['bukti_kerjasama'] = $upload;
+}

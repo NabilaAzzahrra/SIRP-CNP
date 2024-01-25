@@ -1,0 +1,13 @@
+[16-Nov-2022 11:20:14 Asia/Jakarta] PHP Fatal error:  Cannot redeclare user_dua::SavePermintaan() in /home/lp3itasik/public_html/sirp-cnp/application/controllers/User_dua.php on line 2125
+[29-Nov-2022 13:11:13 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:14 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:14 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:14 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:15 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:16 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[29-Nov-2022 13:11:16 Asia/Jakarta] PHP Fatal error:  Can't use function return value in write context in /home/lp3itasik/sirp-cnp/application/views/master/target_id.php on line 96
+[12-Jan-2023 09:28:49 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/sirp-cnp/application/controllers/Master.php on line 3761
+[12-Jan-2023 09:28:58 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/sirp-cnp/application/controllers/Master.php on line 3761
+[12-Jan-2023 09:29:01 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/sirp-cnp/application/controllers/Master.php on line 3761
+[12-Jan-2023 09:29:16 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/sirp-cnp/application/controllers/Master.php on line 3761
+[12-Jan-2023 09:32:16 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/sirp-cnp/application/controllers/Master.php on line 3761
